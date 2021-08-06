@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanYouAccess",
+            "request": "launch",
+            "mainClass": "CanYouAccess",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContentExtractor",
+            "request": "launch",
+            "mainClass": "ContentExtractor",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateWords",
+            "request": "launch",
+            "mainClass": "DuplicateWords",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java1dArrayPart2",
+            "request": "launch",
+            "mainClass": "Java1dArrayPart2",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaAnnotations",
+            "request": "launch",
+            "mainClass": "JavaAnnotations",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaComparator",
+            "request": "launch",
+            "mainClass": "JavaComparator",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaDequeue",
+            "request": "launch",
+            "mainClass": "JavaDequeue",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaExpressions",
+            "request": "launch",
+            "mainClass": "JavaLambdaExpressions",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaMD5",
+            "request": "launch",
+            "mainClass": "JavaMD5",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaPriorityQueue",
+            "request": "launch",
+            "mainClass": "JavaPriorityQueue",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaSHA256",
+            "request": "launch",
+            "mainClass": "JavaSHA256",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaStack",
+            "request": "launch",
+            "mainClass": "JavaStack",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberShapes",
+            "request": "launch",
+            "mainClass": "NumberShapes",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeChecker",
+            "request": "launch",
+            "mainClass": "PrimeChecker",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "HackerRank-Problem-Solving_959d2874"
+        }
+    ]
+}
